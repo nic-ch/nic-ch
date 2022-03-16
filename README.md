@@ -1,4 +1,4 @@
-### Hi there 👋
+IP networking, C++17 and Ruby enthusiast.
 
 <!--
 **nic-ch/nic-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
